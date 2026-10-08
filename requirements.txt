@@ -1,0 +1,2 @@
+# Default software-only restoration and metrics environment (Python 3.12).
+-r environment/requirements.txt

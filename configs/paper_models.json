@@ -1,0 +1,7 @@
+{
+  "sample_rate": 48000,
+  "clip_seconds": 4.0,
+  "denoiser": {"architecture": "MelDenoiseResUNet", "base_channels": 64, "levels": 4, "parameters": 26298817},
+  "refiner": {"architecture": "STFTUNet", "base_channels": 48, "levels": 4, "parameters": 17411522},
+  "note": "Architecture specification only. No weights are distributed. Architecture match does not establish reproduction of the paper training protocol or scores."
+}

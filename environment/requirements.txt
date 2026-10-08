@@ -1,0 +1,12 @@
+# Tested on Python 3.12 (macOS arm64). Separate this from the native UHD environment.
+numpy==1.26.4
+scipy==1.17.1
+soundfile==0.14.0
+librosa==0.11.0
+h5py==3.16.0
+matplotlib==3.10.9
+torch==2.7.1
+torchaudio==2.7.1
+pesq==0.0.4
+pystoi==0.4.1
+faster-whisper==1.2.1
