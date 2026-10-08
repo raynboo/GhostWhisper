@@ -145,6 +145,6 @@ this source-release check.
 
 ## License
 
-A project-wide open-source license has not yet been selected. Public visibility
-alone does not grant an open-source license. Dependencies and any externally
-obtained data or models remain subject to their respective licenses.
+The source code and documentation in this repository are licensed under the
+[MIT License](LICENSE). Dependencies and any externally obtained data or models
+remain subject to their respective licenses.
